@@ -3,8 +3,6 @@ package numberSeries;
 import java.util.Scanner;
 
 // wajp check given charector is alphabet or special charector or Digit
-
-
 public class alSpecDigit {
 
         public static void main(String[] args) {
